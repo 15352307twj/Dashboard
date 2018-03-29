@@ -16,7 +16,7 @@
 
 ## Core Artifacts
 - [Team Profile](Team_profile)
-- [Investigation](Investigation)
+- [Investigation](03_Investigation.md)
 - [Vision](Vision)
 - [Product Backlog](Product_backlog)
 
