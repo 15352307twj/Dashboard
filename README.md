@@ -1,9 +1,3 @@
-[About]:./01_About.md
-[Team_profile]:./02_Team_profile.md
-[Investigation]: ./03_Investigation.md
-[Vision]:./04_Vision.md
-[Product_backlog]:./05_Product_backlog.md
-[Meeting_record]:./X1_meeting_recording.md
 # Owl Movies Ticket System
 
 An online movies ticket system.

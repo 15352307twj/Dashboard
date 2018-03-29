@@ -1,8 +1,3 @@
-[Investigation]: ./03_Investigation.md
-[Team_profile]: ./02_Team_profile.md
-[Vision]: ./04_Vision.md
-[Product_backlog]: ./05_Product_backlog.md
-
 # 项目规划
 
 ## About Owl Movies Ticket System
