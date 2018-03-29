@@ -15,10 +15,10 @@
 - 转让影票
 
 ## Core Artifacts
-- [Team Profile](Team_profile)
+- [Team Profile](02_Team_profile.md)
 - [Investigation](03_Investigation.md)
-- [Vision](Vision)
-- [Product Backlog](Product_backlog)
+- [Vision](04_Vision.md)
+- [Product Backlog](05_Product_backlog.md)
 
 ## Iterations
 ### Iterations 1

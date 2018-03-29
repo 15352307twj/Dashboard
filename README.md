@@ -16,9 +16,9 @@ Team member: 邓夏君  李荣德  李佳仕  张骏  李梓桥  李卓然 �
 
 ## 团队作业发布区
 ### 第一次作业
-- [About.md](About)
-- [Team_profile.md](Team_profile)
-- [Investigation.md](Investigation)
-- [Vision.md](Vision)
-- [Product_backlog.md](Product_backlog)
-- [X1X1_meeting_recording.md](Meeting_record)
+- [About.md](01_About.md)
+- [Team_profile.md](02_Team_profile.md)
+- [Investigation.md](03_Investigation.md)
+- [Vision.md](04_Vision.md)
+- [Product_backlog.md](05_Product_backlog.md)
+- [X1_meeting_recording.md](X1_meeting_recording.md)
