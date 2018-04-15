@@ -4,7 +4,7 @@
 
 梁丰 -15331181 - [Django命令初探](https://shimo.im/docs/DmRw9G1F0rkDaEa3/)
 
-李卓然 - [Django数据库基本](https://shimo.im/docs/3uPetSpH37Mf19ae/)
+李卓然 -15331175- [Django数据库基本](https://shimo.im/docs/3uPetSpH37Mf19ae/)
 
 张骏 - 15331392 - [Vue.js入门](https://zack1005.github.io/2018/04/15/2018-4-13-Vue-js-Part1/)
 
