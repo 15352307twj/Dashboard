@@ -10,4 +10,4 @@
 
 李梓桥 -15331176 - [Django初步学习](https://shimo.im/docs/RozrJrxVBT4Iz7fm/)
 
-李梓桥 -15331161 - [Django基本命令](https://shimo.im/docs/hVYJ7mhuqjgvJzKB/)
+李荣德 -15331161 - [Django基本命令](https://shimo.im/docs/hVYJ7mhuqjgvJzKB/)
