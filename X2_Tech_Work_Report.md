@@ -2,6 +2,6 @@
 
 李佳仕 - [Git学习心得](https://shimo.im/docs/JOAZgvqyK3UwGylM/)
 
-梁丰 - [Django命令初探](https://shimo.im/docs/DmRw9G1F0rkDaEa3/)
+梁丰 -15331181 - [Django命令初探](https://shimo.im/docs/DmRw9G1F0rkDaEa3/)
 
 李卓然 - [Django数据库基本](https://shimo.im/docs/3uPetSpH37Mf19ae/)
