@@ -9,3 +9,5 @@
 张骏 - 15331392 - [Vue.js入门](https://zack1005.github.io/2018/04/15/2018-4-13-Vue-js-Part1/)
 
 李梓桥 -15331176 - [Django初步学习](https://shimo.im/docs/RozrJrxVBT4Iz7fm/)
+
+李梓桥 -15331161 - [Django基本命令](https://shimo.im/docs/hVYJ7mhuqjgvJzKB/)
