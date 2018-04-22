@@ -38,8 +38,9 @@ Team member: 邓夏君  李荣德  李佳仕  张骏  李梓桥  李卓然 �
 - [X1_meeting_recording.md](X1_meeting_recording.md)
 
   - inception meeting(2018/03/23)
-
+  
 - [X2_Tech/Work_Report.md](X2_Tech_Work_Report.md)
+
   - 15331062 - [原型设计工具 - 你好Axure](https://summer06.github.io/2018/04/15/Axure_basic/)
 
   - 15331152 - [Git学习心得](https://shimo.im/docs/JOAZgvqyK3UwGylM/)
