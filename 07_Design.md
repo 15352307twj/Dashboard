@@ -20,3 +20,8 @@
   ![film detail](Images/影片详情.png)
 
   ![seat](Images/座位.png)
+
+### Database design
+![conceptual data model](Images/7.2.png)
+[Issue 1](https://github.com/Owl-Movies-Ticket-System/Dashboard/issues/2)
+[Issue 2](https://github.com/Owl-Movies-Ticket-System/Dashboard/issues/3)
