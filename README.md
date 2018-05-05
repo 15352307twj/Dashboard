@@ -24,10 +24,14 @@ Team member: 邓夏君  李荣德  李佳仕  张骏  李梓桥  李卓然 �
   - 6.1 Usecase Diagram
 
   - 6.2 Use Cases
+  
+  - 6.3 Domian Model
 
 - [7. Design.md](07_Design.md)
 
   - 7.1 UI design
+  
+  - 7.2 Database design
 
 - [8. Code_specification.md](08_Code_specification.md)
 
