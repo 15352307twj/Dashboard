@@ -8,16 +8,16 @@ layout: default
 
 * 1、[About](01-about)（项目规划）
 * 2、[Team profile](02-team-profile)（团队组建）
-* 3、Investigation（项目前期调研）
-* 4、Vision（项目愿景）
-* 5、Product Backlog （产品特性）
-* 6、Requirement specification（需求规格说明）
+* 3、[Investigation](03-investigation)（项目前期调研）
+* 4、[Vision](04-vision)（项目愿景）
+* 5、[Product Backlog](05-product-backlog)（产品特性）
+* 6、[Requirement specification](06-requirement-specification)（需求规格说明）
     - 6.1 Usecase Diagram（用例图）
     - 6.2 Use Cases（用例+活动图）
     - 6.3 Domian Model（领域模型）
     - 6.4 State Model（状态模型）
     - **6.5 System Sequence Diagram（功能模型）**
-* 7、Design（设计）
+* 7、[Design](07-design)（设计）
     - 7.1 UI design
         - XX 用例 UI设计
     - 7.2 Database design
@@ -25,10 +25,10 @@ layout: default
         - 7.2.2 XX子系统数据课设计 
         - 7.2.x 第三方数据评审结果
     - **7.3 API 设计**
-* 8、生产规范与指南
+* 8、[生产规范与指南](08-code-rules-and-guide)
     - 8.1 XX 代码规范
     - 8.2 REST API 设计规范
-* X1 meet_recording
+* [X1 meet_recording](X1-meeting-record)
     - inception meeting (yy/mm/dd)
-* X2 Tech/Work Report
+* [X2 Tech/Work Report](X2-tech-work-report)
     - 学号-title
