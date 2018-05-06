@@ -33,9 +33,9 @@ title: 设计
 
 ## 7.3 API design
 FORMAT: 1A
-HOST: http://polls.apiblueprint.org/
+HOST: http://owl.apiblueprint.org/
 
-## Owl API
+# Owl API
 
 Owl is a system for buying movie tickets. You could look
 for updated infomation about movies here, as well as ordering
@@ -72,8 +72,8 @@ containing your information.
 
 + Response 201 (application/json)
 
-+ Body
-
-            {
-                "info": "Sign In Successfully!"
-            }
+    + Body
+    
+                {
+                    "info": "Sign In Successfully!"
+                }
