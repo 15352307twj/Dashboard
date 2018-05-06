@@ -30,3 +30,50 @@ title: 设计
 ![7.2](/assets/7.2.png)
 [Issue 1](https://github.com/Owl-Movies-Ticket-System/Dashboard/issues/2)
 [Issue 2](https://github.com/Owl-Movies-Ticket-System/Dashboard/issues/3)
+
+## 7.3 API design
+FORMAT: 1A
+HOST: http://polls.apiblueprint.org/
+
+## Owl API
+
+Owl is a system for buying movie tickets. You could look
+for updated infomation about movies here, as well as ordering
+snacks such as popcorn.
+
+## Customer Collection [/customer]
+
+Customers are people who have already signed in Owl. A customer
+has the following attributes: 
+
+- ID
+- Phone Num
+- Password
+- Nick Name
+- Portrait
+- Gender
+- Birthday
+
+### Sign In [POST]
+
+You may creat your account using this action. It takes a JSON object
+containing your information.
+
++ Request (application/json)
+
+        {
+            "Phone Num": "13536875792",
+            "Password": "pwd@owl",
+            "Nick Name": "Jacky",
+            "Portrait": "some chosen image",
+            "Gender": "male",
+            "Birthday": "2000-04-12"
+        }
+
++ Response 201 (application/json)
+
++ Body
+
+            {
+                "info": "Sign In Successfully!"
+            }
