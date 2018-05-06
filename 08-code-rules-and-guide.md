@@ -171,21 +171,25 @@ No:  spam( ham[ 1 ], { eggs: 2 }, [ ] )
 5. 对类名使用大写字母开头的单词(如CapWords, 即Pascal风格), 但是模块名应该用小写加下划线的方式(如lower_with_under.py). 尽管已经有很多现存的模块使用类似于CapWords.py这样的命名, 但现在已经不鼓励这样做, 因为如果模块名碰巧和类名一致, 这会让人困扰.
 
 
-#REST API设计规范
+## REST API设计规范
 
-###1、协议
+### 1、协议
+
 使用https协议
 
-###2、版本
+### 2、版本
+
 将API的版本放入URL中，例如：
 https://owl.com/v1
 
-###3、路径
+### 3、路径
+
 由于REST API是面向资源的，所以路径中只能出现名词，不能出现动词，所用名词尽量参考数据库表的设计,例如：
 https://owl.com/v1/movies
 https://owl.com/v1/users
 
-###4、http请求方式
+### 4、http请求方式
+
 GET（SELECT）：从服务器取出资源（一项或多项）。
 POST（CREATE）：在服务器新建一个资源。
 PUT（UPDATE）：在服务器更新资源（客户端提供改变后的完整资源）。
@@ -196,14 +200,17 @@ GET /movies：列出所有电影
 POST /movies：新建一个电影
 GET /movies/ID：获取某个指定电影的信息
 
-###5、过滤信息
+### 5、过滤信息
+
 如果对资源的需求不是全部，那么需要提供过滤的参数，例如：
 https://owl.com/v1/movies?name=abc *返回名字为abc的电影*
 
-###6、数据
+### 6、数据
+
 使用json数据格式进行数据传递。
 
-###7、状态码
+### 7、状态码
+
 200 OK - [GET]：服务器成功返回用户请求的数据，该操作是幂等的（Idempotent）。
 201 CREATED - [POST/PUT/PATCH]：用户新建或修改数据成功。
 202 Accepted - [*]：表示一个请求已经进入后台排队（异步任务）
