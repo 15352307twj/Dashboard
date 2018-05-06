@@ -56,7 +56,7 @@ has the following attributes:
 
 ### Sign In [POST]
 
-You may creat your account using this action. It takes a JSON object
+You may create your account using this action. It takes a JSON object
 containing your information.
 
 + Request (application/json)
@@ -72,8 +72,127 @@ containing your information.
 
 + Response 201 (application/json)
 
-    + Body
-    
-            {
-                "info": "Sign In Successfully!"
-            }
+        {
+            "State": "Signed In Successfully!"
+        }
+
+### Log In [POST]
+
++ Request (application/json)
+
+        {
+            "Nick Name/Phone Num": "Jacky",
+            "Password": "pwd@owl",
+        }
+
++ Response 201 (application/json)
+
+        {
+            "State": "Logged In Successfully!"
+        }
+        
+### Log Out [POST]
+
++ Request (application/json)
+
+        {
+            "Nick Name/Phone Num": "Jacky",
+        }
+
++ Response 201 (application/json)
+
+        {
+            "State": "Logged Out Successfully!"
+        }
+        
+### Comment on Movie [POST]
+
++ Request (application/json)
+
+        {
+            "Name": "Jacky's Adventure in HK",
+            "Score": "7.5"
+        }
+
++ Response (application/json)
+
+        {
+            "State": "Comment Successfully!"
+        }
+
+### Search Movie [POST]
+
++ Request (application/form)
+
+        {
+            "Name": "Jacky's Adventure in HK"
+        }
+
++ Response (application/json)
+
+        {
+            "Name": "Jacky's Adventure in HK",
+            "Summary": "Jacky is spending his holiday in HK...",
+            "Score": "10"
+        }
+
+## Movies Collection [/movies]
+
+A movie has the following attributes:
+- ID
+- Name
+- Summary
+- Score
+
+### Add Movie [POST]
+
+This action should only be used by the system.
+
++ Request (application/json)
+
+        {
+            "Name": "Jacky's Adventure in HK",
+            "Summary": "Jacky is spending his holiday in HK..."
+        }
+
++ Response 201 (application/json)
+
+        {
+            "State": "successfully add movie",
+            "ID": "114514",
+            "Name": "Jacky's Adventure in HK",
+            "Summary": "Jacky is spending his holiday in HK..."
+            "Score": "7.0"
+        }
+
+### Delete Movie [POST]
+
+This action should only be used by the system.
+
++ Request (application/json)
+
+        {
+            "Name": "Jacky's Adventure in HK"
+        }
+
++ Response 201 (application/json)
+
+        {
+            "State": "Delete this movie?",
+            "ID": "114514",
+            "Name": "Jacky's Adventure in HK",
+            "Summary": "Jacky is spending his holiday in HK..."
+            "Score": "7.0"
+        }
+
++ Request (application/json)
+
+        {
+            "Confirm Info": "Yes"
+        }
+
++ Response 201 (application/json)
+
+        {
+            "State": "Delete movie successfully!"
+        }
