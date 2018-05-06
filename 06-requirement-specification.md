@@ -9,23 +9,23 @@ title: 需求规格说明
 
 ##### Owl 线上电影售票系统页面跳转逻辑图
 
-![logic diagram](Images/Owl逻辑图.png)
+![Owl逻辑图](/assets/Owl逻辑图.png)
 
 ##### 用例图
 1. 注册/登陆用户
-![login](Images/注册登陆.png)
+![注册登陆](/assets/注册登陆.png)
 
 2. 查看影片相关信息
-![show info](Images/查看信息.png)
+![查看信息](/assets/查看信息.png)
 
 3. 购买影票
-![buy ticket](Images/购买影票.png)
+![购买影票](/assets/购买影票.png)
 
 4. 支付影票
-![pay ticket](Images/支付影票.png)
+![支付影票](/assets/支付影票.png)
 
 5. 转让影票
-![transfer ticket](Images/转让影票.png)
+![转让影票](/assets/转让影票.png)
 
 ## 6.2 Use Cases
 
@@ -189,6 +189,21 @@ title: 需求规格说明
 浏览信息：用户登陆网站，通过点击对应的区域，浏览相应的影片信息和影院信息。
 
 ## 6.3 Domain Model
-![domain model](Images/6.3.png)
+![6.3](/assets/6.3.png)
 
 ## 6.4 State Model
+
+注册登陆
+![homework8_team_1](/assets/homework8_team_1_aywl4lvmf.png)
+
+展示影片信息
+![homework8_team_2](/assets/homework8_team_2.png)
+
+购买影票
+![homework8_team_3](/assets/homework8_team_3.png)
+
+支付影票
+![homework_team_4](/assets/homework_team_4.png)
+
+转让影票
+![homework_team_5](/assets/homework_team_5.png)

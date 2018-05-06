@@ -24,4 +24,4 @@ title: X1 meet_recording
 
 **会议记录思维导图**
 
-![meeting1](Images/meeting1.png)
+![meeting1](/assets/meeting1.png)
