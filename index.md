@@ -44,3 +44,5 @@ layout: default
     - 15331176 - [Django初步学习](https://shimo.im/docs/RozrJrxVBT4Iz7fm/)
 
     - 15331161 - [Django基本命令](https://shimo.im/docs/hVYJ7mhuqjgvJzKB/)
+* XX 建模练习
+    - [XX1 Forest应用](XX1-Forest应用)
