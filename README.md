@@ -59,4 +59,11 @@ Team member: 邓夏君  李荣德  李佳仕  张骏  李梓桥  李卓然 �
 
   - 15331161 - [Django基本命令](https://shimo.im/docs/hVYJ7mhuqjgvJzKB/)
 
-- [XX_Modeling_Practice.md](XX_Modeling_Practice.md)
+- [XX_Modeling_Practice.md]
+(XX_Modeling_Practice.md)
+
+  - XX1 Forest
+
+  - XX2 建模要求
+
+  - XX3 建模者答案与评价

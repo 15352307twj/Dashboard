@@ -5,6 +5,6 @@
 ## XX2 建模要求
 
 ### Domain Model
-![forest domain model](Images/forest domain model.png)
+![forest_domain_model](Images/forest_domain_model.png)
 
 ## XX3 建模者答案与评价
