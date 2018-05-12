@@ -207,3 +207,12 @@ title: 需求规格说明
 
 转让影票
 ![homework_team_5](/assets/homework_team_5.png)
+
+## 6.5 System Sequence Diagram
+
+- 场景1: 预定影票成功场景
+  - 绘制者：Summer - 15331062
+
+![Screen Shot 2018-05-12 at 3.42.09 PM](/assets/Screen%20Shot%202018-05-12%20at%203.42.09%20PM.png)
+
+
