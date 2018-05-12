@@ -46,3 +46,7 @@ layout: default
     - 15331161 - [Django基本命令](https://shimo.im/docs/hVYJ7mhuqjgvJzKB/)
 * XX 建模练习
     - [XX1 Forest应用](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/XX1-Forest%E5%BA%94%E7%94%A8.pdf)
+
+    - [XX2 建模例图](XX2_Modeling_Practice)
+
+    - [XX1 建模答案及评价](XX3_Answer_Judgement)
