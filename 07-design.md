@@ -54,7 +54,7 @@ has the following attributes:
 - Gender
 - Birthday
 
-### Sign In [POST]
+### Sign Up [POST]
 
 You may create your account using this action. It takes a JSON object
 containing your information.
@@ -73,7 +73,7 @@ containing your information.
 + Response 201 (application/json)
 
         {
-            "State": "Signed In Successfully!"
+            "State": "Signed Up Successfully!"
         }
 
 ### Log In [POST]
@@ -120,21 +120,6 @@ containing your information.
             "State": "Comment Successfully!"
         }
 
-### Search Movie [POST]
-
-+ Request (application/form)
-
-        {
-            "Name": "Jacky's Adventure in HK"
-        }
-
-+ Response (application/json)
-
-        {
-            "Name": "Jacky's Adventure in HK",
-            "Summary": "Jacky is spending his holiday in HK...",
-            "Score": "10"
-        }
 
 ## Movies Collection [/movies]
 
@@ -196,3 +181,106 @@ This action should only be used by the system.
         {
             "State": "Delete movie successfully!"
         }
+        
+### Search Movie [POST]
+
++ Request (application/json)
+
+        {
+            "Name": "Jacky's Adventure in HK"
+        }
+
++ Response 200 (application/json)
+
+        [
+            {
+                "Movie Name": "Jacky's Adventure in HK",
+                "Summary": "Jacky is spending his holiday in HK...",
+                "Score": "7.0"
+                "Available Cinemas": [
+                                        "Jacky's Cinema",
+                                        "Andy's Cinema"
+                                    ]
+            }
+        ]
+
+## Cinemas Collection [/cinemas]
+
+A cinema has the following attributes:
+- ID
+- Location
+- MovieNum
+
+### Search Cinema [POST]
+
++ Request (application/json)
+
+        {
+            "Name": "Jacky's Cinema"
+        }
+
++ Response 200 (application/json)
+
+        [
+            {
+                "Name": "Jacky's Cinema",
+                "Location": "Guangzhou",
+                "Movie Number": "7"
+                "Food Suppliers": [
+                                        "Mc Turkey",
+                                        "Ken Hut"
+                                ]
+            }
+        ]
+
+### List All Movies [GET]
+
++ Response 200 (application/json)
+
+        [
+            {
+                "Movie Name": "Jacky's Adventure in HK",
+                "Summary": "Jacky is spending his holiday in HK...",
+                "Score": "7.0"
+            }
+        ]
+
+## Tickets Collection [/tickets]
+
+A movie ticket has the following attributes:
+- MovieID
+- CinemaID
+- Price
+
+## Food Suppliers Collection [/foodSuppliers]
+
+A food supplier has the following attributes:
+- ID
+- CinemaID
+
+### List All Service [GET]
+
++ Response 200 (application/json)
+
+        [
+            {
+                "Name": "Jacky's Favourite Meal",
+                "Content": "Hamburger, Cola...",
+                "Price": "$50"
+            }
+        ]
+
+## Food Services Collection [/foodServices]
+
+A food service has the following attributes:
+- ID
+- SupplierID
+- Name
+- Content
+- Price
+
+## Payment Systems Collection [/paymentSystems]
+
+A payment system has the following attributes:
+- ID
+- Name
