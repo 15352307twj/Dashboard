@@ -35,3 +35,13 @@ url="https://www.jianshu.com/p/28eb546839e2"
 url="https://zichang06.github.io/2018/05/13/midterm/"
 
 评价： 很好！
+
+## 建模者8
+url="https://qazasdedc.github.io/homework-7/"
+
+评价： 很好！
+
+## 建模者9
+url="https://blog.csdn.net/sst2230879/article/details/80287150"
+
+评价： 很好！
