@@ -224,6 +224,10 @@ title: 需求规格说明
 
 ![6.5_user_payment_success](/assets/6.5_user_payment_success.png)
 
+- 场景4: 支付影票失败场景（授权失败）
+  - 绘制者：lzq - 15331176
+![支付影票失败场景（授权失败）](/assets/支付影票失败场景（授权失败）顺序图.png)
+
 - 场景5: 支付影票失败场景（余额不足）
   - 绘制者：MichealWind - 15331152
 ![user_payment_failed_balance_insufficient](/assets/6.5_user_payment_failed_balance_insufficient.png)
