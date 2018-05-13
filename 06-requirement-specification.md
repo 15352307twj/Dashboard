@@ -226,4 +226,4 @@ title: 需求规格说明
 
 - 场景6: 转让影票成功场景
   - 绘制者：liangfeng - 15331181
-![转让影票成功场景](https://github.com/S1mpl1fy/Images-In-Markdown/blob/master/%E8%BD%AC%E8%AE%A9%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%90%E5%8A%9F%E7%B3%BB%E7%BB%9F%E9%A1%BA%E5%BA%8F%E5%9B%BE.png?raw=true)
+![转让影票成功场景](/assets/转让电影票成功系统顺序图.png)
