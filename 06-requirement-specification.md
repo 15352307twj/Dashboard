@@ -224,6 +224,10 @@ title: 需求规格说明
 
 ![6.5_user_payment_success](/assets/6.5_user_payment_success.png)
 
+- 场景5: 支付影票失败场景（余额不足）
+  - 绘制者：MichealWind - 15331152
+![user_payment_failed_balance_insufficient](/assets/6.5_user_payment_failed_balance_insufficient.png)
+
 - 场景6: 转让影票成功场景
   - 绘制者：liangfeng - 15331181
 ![转让影票成功场景](/assets/转让电影票成功系统顺序图.png)
