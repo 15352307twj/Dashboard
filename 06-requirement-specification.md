@@ -224,6 +224,6 @@ title: 需求规格说明
 
 ![6.5_user_payment_success](/assets/6.5_user_payment_success.png)
 
-## State Diagram
+## 6.6 State Diagram
 
 ![state diagram](/assets/Forest_state_diagram.jpg)
