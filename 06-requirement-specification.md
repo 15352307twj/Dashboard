@@ -215,6 +215,9 @@ title: 需求规格说明
 
 ![Screen Shot 2018-05-12 at 3.42.09 PM](/assets/Screen%20Shot%202018-05-12%20at%203.42.09%20PM.png)
 
+- 场景2：预定影票失败场景（无座位）
+	- 绘制者：Zack - 15331392
+![user_payment_failed_seat_insufficient](/assets/user_payment_failed_seat_insufficient.png)
 
 - 场景3: 支付影票成功场景
   - 绘制者：JackyLrd - 15331161
