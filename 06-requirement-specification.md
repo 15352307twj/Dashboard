@@ -223,3 +223,7 @@ title: 需求规格说明
   - 绘制者：JackyLrd - 15331161
 
 ![6.5_user_payment_success](/assets/6.5_user_payment_success.png)
+
+## State Diagram
+
+![state diagram](/assets/Forest_state_diagram.jpg)
