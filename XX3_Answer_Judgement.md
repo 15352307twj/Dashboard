@@ -20,3 +20,18 @@ url="https://blog.csdn.net/MSouL_/article/details/80292618"
 url="https://starthemoon.github.io/blog/系统分析与设计hw7/"
 
 评价：很好！
+
+## 建模者5
+url="https://blog.csdn.net/SYSU_xiandan/article/details/80299930"
+
+评价： 很好！
+
+## 建模者6
+url="https://www.jianshu.com/p/28eb546839e2"
+
+评价： 很好！
+
+## 建模者7
+url="https://zichang06.github.io/2018/05/13/midterm/"
+
+评价： 很好！
