@@ -10,7 +10,7 @@ title: System Sequence Diagram
 - 场景1: 预定影票成功场景
   - 绘制者：Summer - 15331062
 
-![Screen Shot 2018-05-12 at 3.42.09 PM](/assets/user_book_success.png)
+![user_book_success](/assets/user_book_success.png)
 
 - 场景2：预定影票失败场景（无座位）
 	- 绘制者：Zack - 15331392
