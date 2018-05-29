@@ -62,18 +62,18 @@ containing your information.
 + Request (application/json)
 
         {
-            "Phone Num": "13536875792",
-            "Password": "pwd@owl",
-            "Nick Name": "Jacky",
-            "Portrait": "some chosen image",
-            "Gender": "male",
-            "Birthday": "2000-04-12"
+            "phone_number": "13536875792",
+            "password": "pwd@owl",
+            "nickname": "Jacky",
+            "portrait": "some chosen image",
+            "sex": "male",
+            "birth": "2000-04-12"
         }
 
 + Response 201 (application/json)
 
         {
-            "State": "Signed Up Successfully!"
+            "state": "Signed Up Successfully!"
         }
 
 ### Log In [POST]
@@ -81,14 +81,14 @@ containing your information.
 + Request (application/json)
 
         {
-            "Nick Name/Phone Num": "Jacky",
-            "Password": "pwd@owl",
+            "phone_number": "13536875792",
+            "password": "pwd@owl",
         }
 
 + Response 201 (application/json)
 
         {
-            "State": "Logged In Successfully!"
+            "state": "Logged In Successfully!"
         }
         
 ### Log Out [POST]
@@ -96,13 +96,13 @@ containing your information.
 + Request (application/json)
 
         {
-            "Nick Name/Phone Num": "Jacky",
+            "phone_number": "13536875792",
         }
 
 + Response 201 (application/json)
 
         {
-            "State": "Logged Out Successfully!"
+            "state": "Logged Out Successfully!"
         }
         
 ### Comment on Movie [POST]
@@ -110,14 +110,14 @@ containing your information.
 + Request (application/json)
 
         {
-            "Name": "Jacky's Adventure in HK",
-            "Score": "7.5"
+            "name": "Jacky's Adventure in HK",
+            "rate": "7.5"
         }
 
 + Response (application/json)
 
         {
-            "State": "Comment Successfully!"
+            "state": "Comment Successfully!"
         }
 
 
@@ -136,18 +136,18 @@ This action should only be used by the system.
 + Request (application/json)
 
         {
-            "Name": "Jacky's Adventure in HK",
-            "Summary": "Jacky is spending his holiday in HK..."
+            "name": "Jacky's Adventure in HK",
+            "introduction": "Jacky is spending his holiday in HK..."
         }
 
 + Response 201 (application/json)
 
         {
-            "State": "successfully add movie",
-            "ID": "114514",
-            "Name": "Jacky's Adventure in HK",
-            "Summary": "Jacky is spending his holiday in HK..."
-            "Score": "7.0"
+            "state": "successfully add movie",
+            "movie_id": "114514",
+            "name": "Jacky's Adventure in HK",
+            "introduction": "Jacky is spending his holiday in HK..."
+            "rate": "7.0"
         }
 
 ### Delete Movie [POST]
@@ -163,23 +163,23 @@ This action should only be used by the system.
 + Response 201 (application/json)
 
         {
-            "State": "Delete this movie?",
-            "ID": "114514",
-            "Name": "Jacky's Adventure in HK",
-            "Summary": "Jacky is spending his holiday in HK..."
-            "Score": "7.0"
+            "state": "Delete this movie?",
+            "movie_id": "114514",
+            "name": "Jacky's Adventure in HK",
+            "introduction": "Jacky is spending his holiday in HK..."
+            "rate": "7.0"
         }
 
 + Request (application/json)
 
         {
-            "Confirm Info": "Yes"
+            "confirm_info": "Yes"
         }
 
 + Response 201 (application/json)
 
         {
-            "State": "Delete movie successfully!"
+            "state": "Delete movie successfully!"
         }
         
 ### Search Movie [POST]
@@ -187,17 +187,17 @@ This action should only be used by the system.
 + Request (application/json)
 
         {
-            "Name": "Jacky's Adventure in HK"
+            "name": "Jacky's Adventure in HK"
         }
 
 + Response 200 (application/json)
 
         [
             {
-                "Movie Name": "Jacky's Adventure in HK",
-                "Summary": "Jacky is spending his holiday in HK...",
-                "Score": "7.0"
-                "Available Cinemas": [
+                "name": "Jacky's Adventure in HK",
+                "introduction": "Jacky is spending his holiday in HK...",
+                "rate": "7.0"
+                "available_cinemas": [
                                         "Jacky's Cinema",
                                         "Andy's Cinema"
                                     ]
@@ -216,17 +216,17 @@ A cinema has the following attributes:
 + Request (application/json)
 
         {
-            "Name": "Jacky's Cinema"
+            "name": "Jacky's Cinema"
         }
 
 + Response 200 (application/json)
 
         [
             {
-                "Name": "Jacky's Cinema",
-                "Location": "Guangzhou",
-                "Movie Number": "7"
-                "Food Suppliers": [
+                "name": "Jacky's Cinema",
+                "location": "Guangzhou",
+                "movie_number": "7"
+                "food_suppliers": [
                                         "Mc Turkey",
                                         "Ken Hut"
                                 ]
@@ -239,18 +239,20 @@ A cinema has the following attributes:
 
         [
             {
-                "Movie Name": "Jacky's Adventure in HK",
-                "Summary": "Jacky is spending his holiday in HK...",
-                "Score": "7.0"
+                "name": "Jacky's Adventure in HK",
+                "introduction": "Jacky is spending his holiday in HK...",
+                "rate": "7.0"
             }
         ]
 
 ## Tickets Collection [/tickets]
 
 A movie ticket has the following attributes:
-- MovieID
-- CinemaID
-- Price
+- order_id
+- member_id
+- create_date
+- movie_id
+- cinema_id
 
 ## Food Suppliers Collection [/foodSuppliers]
 
