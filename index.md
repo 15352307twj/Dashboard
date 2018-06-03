@@ -17,6 +17,7 @@ layout: default
     - 6.3 [Domian Model](06-requirement-specification-3)（领域模型）
     - 6.4 [State Model](06-requirement-specification-4)（状态模型）
     - 6.5 [System Sequence Diagram](06-requirement-specification-5)（功能模型）
+    - 6.6 [Supplementary Requirements](06-requirement-specification-6) (补充需求)
 * 7、Design（设计）
     - 7.1 [UI design](07-design-1)
         - Owl Movies 用例 UI设计
@@ -25,6 +26,7 @@ layout: default
         - 7.2.2 Owl Movies子系统数据课设计 
         - 7.2.x 第三方数据评审结果
     - 7.3 [API 设计](07-design-3)
+    - 7.4 [Software Architecture Document](07-design-4)
 * 8、生产规范与指南
     - 8.1 [Owl Movies 代码规范](08-code-rules-and-guide-1)
     - 8.2 [REST API 设计规范](08-code-rules-and-guide-2)
