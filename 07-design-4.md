@@ -19,4 +19,4 @@ title: Software Architecture Document
 ### 逻辑视图
 
 ### 物理视图
-![Screen Shot 2018-06-03 at 11.12.20 PM](/assets/Screen%20Shot%202018-06-03%20at%2011.12.20%20PM.png)
+![physic_model](/assets/physic_model.png)
