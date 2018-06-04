@@ -185,7 +185,7 @@ A cinema has the following attributes:
 - Location
 - MovieNum
 
-### Search Cinema [POST]
+### Search Cinema by Name[POST]
 
 + Request (application/json)
 
@@ -199,6 +199,28 @@ A cinema has the following attributes:
             {
                 "Name": "Jacky's Cinema",
                 "Location": "Guangzhou",
+                "Movie Number": "7"
+                "Food Suppliers": [
+                                        "Mc Turkey",
+                                        "Ken Hut"
+                                ]
+            }
+        ]
+
+### Search Cinema by District[POST]
+
++ Request (application/json)
+
+        {
+            "District": "BaiYun District"
+        }
+
++ Response 200 (application/json)
+
+        [
+            {
+                "Name": "Jacky's Cinema",
+                "Location": "BaiYun District Jacky Road 114",
                 "Movie Number": "7"
                 "Food Suppliers": [
                                         "Mc Turkey",
