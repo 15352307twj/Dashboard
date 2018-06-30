@@ -18,10 +18,10 @@ title: 关于团队
 |学号|昵称|Github|岗位角色|
 |:--:|:--:|:--:|:--:|
 |15331062|Summer|[Summer06](https://github.com/summer06)|项目经理、UI设计师|
-|1533xxxx|xxx|[xxx](https://github.com/xxx)|xxx|
-
-
-* 管理岗：产品经理
-* 技术岗：架构师（技术经理）、java工程师、js工程师、UI/UX设计师、数据库DBA、AI技术经理等
-* 质量岗：QA 工程师、DevOps 工程师
+|15331161|Jacky|[JackyLrd](https://github.com/JackyLrd)|后端开发|
+|15331392|Zack|[Zack1005](https://github.com/Zack1005)|前端开发|
+|15331152|BrotherWind|[MichealWind](https://github.com/MichealWind)|前端开发|
+|15331176|liziqiao|[liziqiao](https://github.com/liziqiao)|后端部署|
+|15331181|fong|[S1mpl1fy](https://github.com/S1mpl1fy)|后端开发|
+|15331175|lizhuoran|[mobilesuitlovelive](https://github.com/mobilesuitlovelive)|后端开发|
 
