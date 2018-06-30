@@ -32,13 +32,12 @@ title: final report 15331062
 
 ### Git统计报告
 由于一开始我搭建好gh-page之后，却没有把东西放在gh-page上，因此前面半个阶段的文档在master分支上，后面进行了一次迁移并且之后的文档都在gh-page上，因此在两个分支上都有贡献记录。
- (因为时间原因，6.30提交的东西的贡献率并没有显示出来)
 
 - master上的贡献记录
 ![master](/assets/master.png)
 
 - gh-page上的贡献记录
-![gh-page](/assets/gh-page.png)
+![gh-page](/assets/gh-page_6k52q1evu.png)
 
 ### 工作清单
 
