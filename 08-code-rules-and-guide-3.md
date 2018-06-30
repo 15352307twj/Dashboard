@@ -7,17 +7,17 @@ title: 逻辑架构到应用程序映射指南
 ![logic structure](assets/logic_view.png)
 ### 目录结构如下：
 TicketSelling
-|____frontend
-　　　|____dist
-　　　　　　|____index.html
-　　　　　　|____img
-　　　　　　|____static
-|____backend
-　　　|____admin.py
-　　　|____models.py
-　　　|____views.py
-|____manage.py
-|____db.sqlite3
+|____frontend <br>
+　　　|____dist <br>
+　　　　　　|____index.html <br>
+　　　　　　|____img <br>
+　　　　　　|____static <br>
+|____backend <br>
+　　　|____admin.py <br>
+　　　|____models.py <br>
+　　　|____views.py <br>
+|____manage.py <br>
+|____db.sqlite3 <br>
 ### ECB
 详见7.5
 
