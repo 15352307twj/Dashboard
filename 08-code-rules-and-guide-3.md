@@ -6,7 +6,7 @@ title: 逻辑架构到应用程序映射指南
 ### 逻辑架构图如下：
 ![logic structure](assets/logic_view.png)
 ### 目录结构如下：
-TicketSelling
+TicketSelling <br>
 |____frontend <br>
 　　　|____dist <br>
 　　　　　　|____index.html <br>
