@@ -31,6 +31,8 @@ title: final report 15331152
 
 ![MichealWind_gitcommit_2](./assets/MichealWind_gitcommit_2.png)
 
+![MichealWind_gitcommit_2](./assets/MichealWind_gitcommit_3.png)
+
 ### 工作清单
 
 前端整体架构搭建
