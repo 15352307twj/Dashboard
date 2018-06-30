@@ -17,3 +17,24 @@ title: Usecase design
 
 类图如下：
 ![Screen Shot 2018-06-30 at 1.57.37 PM](/assets/Screen%20Shot%202018-06-30%20at%201.57.37%20PM.png)
+
+#### 用例简介
+
+本用例包含一个用户最基本的一次使用过程，包括：
+
+1. Log in
+2. Search movie
+3. Make reservation
+4. Make payment
+
+流程图按照BCE模型画出，其中由于领域对象或数据实体太多，我统一使用Entities代表实体对象。在这里Entities是代表一类实体，而不是单一的某种实体。 
+
+类图按照我们项目实际组成的类，以及它们之间的关系画成。 
+
+顺序图
+
+![](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/assets/lf_shunxutu.png?raw=true)
+
+类图
+
+![](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/assets/lf_leitu.png?raw=true)
