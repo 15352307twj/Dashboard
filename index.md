@@ -47,6 +47,8 @@ layout: default
     - 15331392 - [Vue.js入门](https://zack1005.github.io/2018/04/15/2018-4-13-Vue-js-Part1/)
     - 15331176 - [Django初步学习](https://shimo.im/docs/RozrJrxVBT4Iz7fm/)
     - 15331161 - [Django基本命令](https://shimo.im/docs/hVYJ7mhuqjgvJzKB/)
+* X3 Final Report
+    - [X3 Final Report - 15331062](X3-Final-Report-15331062)
 * XX 建模练习
     - [XX1 Forest应用](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/XX1-Forest%E5%BA%94%E7%94%A8.pdf)
     - [XX2 建模例图](XX2_Modeling_Practice)
