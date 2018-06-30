@@ -27,11 +27,13 @@ title: final report 15331152
 
 ### Git统计报告
 
-![MichealWind_gitcommit_1](./assets/MichealWind_gitcommit_1.png)
+![MichealWind_gitcommit_1](./assets/MichealWind_gitcommit_4.png)
 
-![MichealWind_gitcommit_2](./assets/MichealWind_gitcommit_2.png)
+![MichealWind_gitcommit_2](./assets/MichealWind_gitcommit_1.png)
 
-![MichealWind_gitcommit_2](./assets/MichealWind_gitcommit_3.png)
+![MichealWind_gitcommit_3](./assets/MichealWind_gitcommit_2.png)
+
+![MichealWind_gitcommit_4](./assets/MichealWind_gitcommit_3.png)
 
 ### 工作清单
 
