@@ -38,3 +38,21 @@ title: Usecase design
 类图
 
 ![](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/assets/lf_leitu.png?raw=true)
+
+#### 用例简介
+
+本用例包含一个用户选择影院，在该影院中选择电影，订座，支付的过程：
+
+1.	Log in
+2.	Choose Theater
+3.	Choose Movie
+4.	Make Reservation
+5.	Make Payment
+
+顺序图，使用BCE模式画出的顺序图如下：
+![](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/assets/7.5UseCase.png?raw=true)
+
+类图与上相同
+
+![](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/assets/lf_leitu.png?raw=true)
+
