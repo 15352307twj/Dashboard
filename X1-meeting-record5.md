@@ -21,4 +21,4 @@ title: 第五次迭代会议
 
 
 **会议记录思维导图**
-![Screen Shot 2018-06-30 at 4.37.55 PM](/assets/Screen%20Shot%202018-06-30%20at%204.37.55%20PM.png)
+![meeting5](/assets/meeting5.png)

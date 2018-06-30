@@ -20,5 +20,4 @@ title: 第二次迭代会议
   - api设计
 
 **会议记录思维导图**
-
-![Screen Shot 2018-06-30 at 2.58.55 PM](/assets/Screen%20Shot%202018-06-30%20at%202.58.55%20PM.png)
+![meeting2](/assets/meeting2.png)

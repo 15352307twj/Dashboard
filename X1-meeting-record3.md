@@ -18,5 +18,4 @@ title: 第三次迭代会议
 - 三周时间完成后台搭建和基本业务逻辑
 
 **会议记录思维导图**
-
-![Screen Shot 2018-06-30 at 3.57.35 PM](/assets/Screen%20Shot%202018-06-30%20at%203.57.35%20PM.png)
+![meeting3](/assets/meeting3.png)

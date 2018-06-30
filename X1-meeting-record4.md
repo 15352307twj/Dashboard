@@ -21,4 +21,4 @@ title: 第四次迭代会议
 - 部署工作随后进行
 
 **会议记录思维导图**
-![Screen Shot 2018-06-30 at 4.23.44 PM](/assets/Screen%20Shot%202018-06-30%20at%204.23.44%20PM.png)
+![meeting4](/assets/meeting4.png)
