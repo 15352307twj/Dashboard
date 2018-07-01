@@ -31,13 +31,15 @@ title: final report 15331062
 |**Total**|**67**|
 
 ### Git统计报告
-由于一开始我搭建好gh-page之后，却没有把东西放在gh-page上，因此前面半个阶段的文档在master分支上，后面进行了一次迁移并且之后的文档都在gh-page上，因此在两个分支上都有贡献记录。
+由于一开始我搭建好gh-page之后，却没有把东西放在gh-page上，因此 **前面半个阶段的文档在master分支上，后面进行了一次迁移并且之后的文档都在gh-page上，** 因此在两个分支上都有贡献记录。
 
-- master上的贡献记录
-![master](/assets/master.png)
+我在本次项目中担任产品经理以及设计师，因此只在Dashborad的仓库里有贡献率。
 
-- gh-page上的贡献记录
-![gh-page](/assets/gh-page_6k52q1evu.png)
+- master上的贡献记录（前半阶段）
+![before](/assets/before.png)
+
+- gh-page上的贡献记录（后半阶段）
+![later](/assets/later.png)
 
 ### 工作清单
 
