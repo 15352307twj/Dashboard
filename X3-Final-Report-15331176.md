@@ -5,7 +5,7 @@ title: final report 15331176
 
 ### 自我总结
 
-感谢整个团队的队友的辛勤付出，感谢助教，感谢潘老师，让我在这门课上学习到了一个软件的整个开发流程和一些新的知识。
+首先感谢整个团队的队友的辛勤付出，感谢助教，感谢潘老师，让我在这门课上学习到了一个软件的整个开发流程和一些新的知识。这次的项目中，我们前期花了比较多的时间来进行文档的编写的工作，这其实也说明了其实一个项目中的文档是非常必要和重要的，然后后面开发的过程中我们后台使用的是django开发框架，这个框架让整个项目的开发效率提高了很多，后台的工作也相对少了很多，在后台部署中使用容器可以使得一个容器一次构建到处运行，这也是当今云时代一个非常重要的技术，在这次负责整个后台的部署过程中，对于docker技术有了更加深入的了解。
 
 ### PSP 2.1 统计表
 
@@ -27,16 +27,17 @@ title: final report 15331176
 
 后端开发Git仓库：
 
-![](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/assets/liziqiao.png?raw=true)
+![](/assets/liziqiao_backend.png)
 
 Dashboard文档等：
 
-![](https://github.com/Owl-Movies-Ticket-System/Dashboard/blob/gh-pages/assets/liziqiao_dash.png?raw=true)
+![](/assets/liziqiao_dashbroad.png)
 
 ### 工作清单
 
-1. 制定项目后端REST api规范文，参与完成项目用例分析、系统顺序图等等文档
-2. 负责完成在云端使用docker部署后端项目服务器。
+1. 制定项目后端REST api规范文
+2、参与完成项目用例分析、系统顺序图等等文档
+3. 负责完成在云端使用docker部署后端项目服务器。
 
 ### 博客清单
 
